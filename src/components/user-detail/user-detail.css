@@ -1,0 +1,12 @@
+.right-bordered {
+    border-right: 1px solid #999;
+}
+
+.left-aligned {
+    text-align: left;
+}
+
+.view-posts {
+    padding: 30px;
+    text-align: left;
+}

@@ -1,0 +1,1 @@
+#This is a dummy project built with react and utilised the power of graphql and apollo client to make data calls

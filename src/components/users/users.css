@@ -1,0 +1,18 @@
+
+.users {
+    text-align: left;
+    margin: 10px;
+    background-color: #f1f1f1;
+    border-radius: 10px;
+    padding: 15px;
+    box-sizing: border-box;
+}
+
+.users a {
+    text-decoration: none;
+    color: #555;
+}
+
+.users a h4{
+    color: #333;
+}
