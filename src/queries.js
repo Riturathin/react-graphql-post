@@ -29,9 +29,6 @@ const GET_USER = gql
 query user ($userId: ID!) {
     user (id: $userId){
         id
-        name
-        email
-        phone
         website
         company{
           name
